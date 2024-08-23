@@ -1,9 +1,14 @@
 *{
-    background-color: rgb(66, 66, 66);
+   
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(95, 95, 95);
 }
 
 header{
@@ -24,6 +29,12 @@ article{
     padding: 10px;
     margin: 10px;
     width: 80%;
+    border-radius: 10px;
+}
+
+img{
+    width: 10%;
+    height: auto;
     border-radius: 10px;
 }
 
